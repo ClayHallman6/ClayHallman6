@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClayHallman6
-- 👀 I’m interested in Sports, Automotive/Aerospace industry, Data Analysis and Engineering
-- 🌱 I’m currently learning Data Analytics and Renewable Energy Systems Engineering
+- 👀 I’m interested in Sports, Gaming, the Automotive/Aerospace industry, Data Analysis and Engineering
+- 🌱 I’m currently working as a data analyst and always learning new things in and outside of analytics!
 - 📫 You can reach me at c.w.hallman6@gmail.com
 
 <!---
